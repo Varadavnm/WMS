@@ -39,5 +39,5 @@ It supports:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/wms-assignment.git
+git clone https://github.com/Varadavnm/WMS
 cd wms-assignment
