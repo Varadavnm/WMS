@@ -41,3 +41,4 @@ It supports:
 ```bash
 git clone https://github.com/Varadavnm/WMS
 cd wms-assignment
+Loom Link:  https://www.loom.com/share/316c7f783d8642eab3b60494ad6df762?sid=085c4477-2ad6-4e4d-b85f-bc071adb26ba
